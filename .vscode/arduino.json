@@ -1,0 +1,7 @@
+{
+    "sketch": "feather-clock.ino",
+    "port": "/dev/cu.usbmodem1411",
+    "board": "adafruit:avr:feather32u4",
+    "output": "build",
+    "debugger": "jlink"
+}
